@@ -5,9 +5,3 @@
 // State vars are also binding vars?
 
 // where do print statements print to?
-
-
-// things I want to add
-// music
-// vibration haptics
-// error message if you go over the 1h limit
