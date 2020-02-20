@@ -27,6 +27,6 @@ Pop up error message if a time greater than 3600 was set on the timer
 
 # Videos
 
-![img](https://media.giphy.com/media/kF0SHbuNQjapEnbfFP/giphy.mp4)
+![img](https://media.giphy.com/media/kF0SHbuNQjapEnbfFP/giphy.gif)
 ![img](https://i.imgur.com/lw6nyMdm.png)
 
